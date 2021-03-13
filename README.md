@@ -1,4 +1,4 @@
-### 안녕하세요.
+### 안녕하세요. 제가 만들고 싶은 것 공유하고 싶은 것을 올립니다.
 
 <!--
 **samgashyeong/samgashyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
