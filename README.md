@@ -1,5 +1,7 @@
 ### 안녕하세요. 제가 만들고 싶은 것 공유하고 싶은 것을 올립니다.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samgashyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![samgashyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgashyeong&show_icons=true&theme=radical)
 <!--
 **samgashyeong/samgashyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
