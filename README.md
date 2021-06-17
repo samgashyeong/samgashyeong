@@ -1,4 +1,3 @@
-### 헬로우
 ### 선린인터넷고등학교 이준상입니다!
 ![samgashyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgashyeong&show_icons=true&theme=radical)
 <!--
