@@ -3,10 +3,8 @@
 
   ## Who I am
 
+ - Ajou University College of Software Convergence
  - Sunrin Internet High School's software department.
-
- - Member of the 11th Apple Pie.
-
  - I'm majoring in app development.
 
 
