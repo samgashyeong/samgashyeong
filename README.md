@@ -2,9 +2,6 @@
 
 
   ## Who I am
-
- - Ajou University College of Software Convergence
- - Sunrin Internet High School's software department.
  - I'm majoring in app development.
 
 
