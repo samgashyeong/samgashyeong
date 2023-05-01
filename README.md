@@ -5,7 +5,7 @@
  - I'm majoring in app development.
 
 
-## What am I learning?
+<!-- ## What am I learning?
  - Android Studio
  - Architecture(MVVM, MVP)
  - Kotlin
@@ -16,7 +16,7 @@
  - JetPack
  - Python
  - Django
- - Html, Css, JavaScript
+ - Html, Css, JavaScript -->
 
 
 ## Github stats
