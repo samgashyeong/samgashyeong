@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junsang's%20GitHub&fontSize=60)
   ## 소개
-  고등학교 때 앱, 서버를 주력으로 공부하고 있었고, 현재는 대학 다니면서 앱를 포함한 많은 것들을 공부하고 있습니다.
+  고등학교 때 앱, 서버를 주력으로 공부하고 있었고, 현재는 대학을 다니면서 앱을 포함한 많은 것들을 공부하고 있습니다.
 
 
 ## 학력
