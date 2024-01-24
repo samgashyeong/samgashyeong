@@ -5,7 +5,7 @@
 
 ## 학력
  - 선린인터넷고등학교 소프트웨어학과 졸업
- - 아주대학교 소프트웨어융합대학 디지털미디어학과 재학
+ - 아주대학교 소프트웨어융합대학 재학
 <!-- ## What am I learning?
  - Android Studio
  - Architecture(MVVM, MVP)
