@@ -8,5 +8,4 @@
 <img src="https://img.shields.io/badge/android_studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-%23892CA0.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" /> 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=samgashyeong)](https://solved.ac/samgashyeong)
+<img src="http://mazandi.herokuapp.com/api?handle=samgashyeong&theme=dark"/>
